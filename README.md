@@ -1,8 +1,10 @@
 # SC2 Archipelago Map and Mod data
 The original repo contains the required StarCraft2 map and mod data for Archipelago
 
---This version of it contains maps I've edited (refer to branch names for types of edits)
-Builded-missions are missions that were No-build missions that I've turned into Build missions.
+- This version of it contains maps I've edited (refer to branch names for types of edits, I do take requests).
+- Builded-missions are missions that were No-build missions that I've turned into Build missions.
+- No-Builded-Missions are missions that were build missions that I've evilly turned into No-Build Missions.
+
 
 ## Licensing
 - Original maps are owned by Blizzard®.
